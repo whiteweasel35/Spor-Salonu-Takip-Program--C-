@@ -1,0 +1,61 @@
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe.config
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.pdb
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csprojResolveAssemblyReference.cache
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Form1.resources
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Properties.Resources.resources
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.GenerateResource.Cache
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.exe
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.pdb
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmEkle.resources
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmGuncelle.resources
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmAra.resources
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmBilgi.resources
+C:\Users\Fero\Documents\Visual Studio 2013\Projects\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmBilgiGüncelle.resources
+C:\Users\Fero\Desktop\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe.config
+C:\Users\Fero\Desktop\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.exe
+C:\Users\Fero\Desktop\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.pdb
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe.config
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.pdb
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csprojAssemblyReference.cache
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Form1.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmAra.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmBilgi.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmBilgiGüncelle.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmEkle.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmGuncelle.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Properties.Resources.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.GenerateResource.cache
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.exe
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.pdb
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmUrunEkle.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Urunler.resources
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Interop.MSDASC.dll
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.ResolveComReference.cache
+C:\Users\white\OneDrive\Masaüstü\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmurunguncelle.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe.config
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.exe
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\bin\Debug\Spor_Salonu_Takip.pdb
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.AssemblyReference.cache
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Interop.MSDASC.dll
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.ResolveComReference.cache
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Form1.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmAra.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmBilgi.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmBilgiGüncelle.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmEkle.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmGuncelle.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmUrunEkle.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.frmurunguncelle.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Properties.Resources.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.Urunler.resources
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.GenerateResource.cache
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.csproj.CoreCompileInputs.cache
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.exe
+C:\Users\white\OneDrive\Masaüstü\dersler\Spor_Salonu_Takip\Spor_Salonu_Takip\obj\Debug\Spor_Salonu_Takip.pdb
